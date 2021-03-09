@@ -21,7 +21,7 @@ absolutely no coding. I realised I needed a bit more structure so I enrolled on 
 website with HTML, CSS and JavaScript from scratch, and realised how much I enjoyed coding.
 
 After this I set my sights on getting onto the Founders and Coders (FAC) bootcamp because they offer an amazing curriculum with mentorship and employment support.
-There are pre-requisites to getting onto the bootcamp, so this gave me more structure for my learning. 
+There are [pre-requisites](https://www.foundersandcoders.com/apply/#application-requirements) to getting onto the bootcamp, so this gave me more structure for my learning. 
 Oh, and because the bootcamp is communnity run it is absolutely free! Other bootcamps can cost upwards of £8k, so I was desperate to get on, 
 which gave me even more motivation to learn.
 
@@ -32,10 +32,15 @@ But of course there are limited number of spaces, costs and other limitations su
 So here are some extra tips...
 
 ## 💡 Tips
-- Follow a course or curriculum to have some structure to your learning - 
-the [FAC course](learn.foundersandcoders.com) is open-source so you can study it even if you don't attend the bootcamp as a cohort member
+- Follow a course or curriculum to have some structure to your learning
+- Using free online resources is a great way to start because you can suss out what programming languages you like, and whether you enjoy coding every day
+- Find other people to code with, you can learn really important skills like pair programming and version control, and you learn more when you have to 
+explain your code to others
+- Join coding communities and attend meet-ups (there are virtual ones) to find people to connect with and ask questions
+- If you have Twitter you can start tweeting about your coding journey, the tech community is very supportive on there - I would recommend looking at the #100DaysOfCode and #CodeNewbie tags
 
 ## 📚 Resources
 
 ### Free Online Resources
+- The [Founders and Coders Curriculum](https://learn.foundersandcoders.com/) is open-source so you can study it even if you don't attend the bootcamp as a cohort member
 - [freeCodeCamp](https://www.freecodecamp.org/)
