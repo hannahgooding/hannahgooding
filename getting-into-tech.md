@@ -30,7 +30,9 @@ There are [pre-requisites](https://www.foundersandcoders.com/apply/#application-
 Oh, and because the bootcamp is communnity run it is absolutely free! Other bootcamps can cost upwards of £8k, so I was desperate to get on, 
 which gave me even more motivation to learn.
 
-I saved up and quit my job to do FAC. I would throughly recommend the course/bootcamp route into programming, 
+Whilst making my way through the course pre-reqs, I attended [codebar](https://codebar.io/) meetups every week where I would be able to iron out any questions with a coach FOR FREE with FREE PIZZA!
+
+I eventually saved up and quit my job to do FAC. I would throughly recommend the course/bootcamp route into programming, 
 I met so many amazing people and I am still active in the alumni community. 
 But of course there are limited number of spaces, costs and other limitations such as time, location, etc. 
 
@@ -43,7 +45,7 @@ without committing to paying.
 - If you find a resource particularly difficult to learn from, try something else. Don't just stick at something that isn't working because it feels like "giving up". Everyone learns in their own way.
 - Find other people to code with. You can learn really important skills like pair programming and version control which you can't learn on your own. 
 You also question and prove your knowledge when you have to explain your code to others.
-- Join coding communities and attend meet-ups (there are virtual ones) to find people to connect with and ask questions.
+- Join coding communities and attend meet-ups (there are virtual ones) or conferences to find people to connect with and ask questions.
 - Find a mentor who you identify with who can give you some direction.
 - If you have Twitter you can start tweeting about your coding journey, the tech community is very supportive on there - I would recommend looking at the #100DaysOfCode and #CodeNewbie tags.
 - Blogging your coding journey can help you keep track of your learning. This can be in any form, during my bootcamp I got given the tip to post a "today I learned" everyday which I did on [Wordpress](https://hannahwsgooding.wordpress.com/). These can also be daily/weekly tweets, or public posts to forums like [Dev.to](https://dev.to/).
@@ -56,19 +58,24 @@ There are absolutely tonnes of resources out there, and there can never be an ex
 ### Free Online Resources
 
 #### Web Development
-- The [Founders and Coders Curriculum](https://learn.foundersandcoders.com/) is open-source so you can study it even if you don't attend the bootcamp as a cohort member
-- [freeCodeCamp](https://www.freecodecamp.org/) - great for HTML and CSS basics, I found JavaScript difficult to learn on this platform
+- The [Founders and Coders Curriculum](https://learn.foundersandcoders.com/) is open-source so you can study it even if you don't attend the bootcamp as a cohort member.
+- [freeCodeCamp](https://www.freecodecamp.org/) - great for HTML and CSS basics, note: I found JavaScript difficult to learn on this platform.
+- [General Assembly Dash](https://dash.generalassemb.ly/) - great for following along and quickly seeing how HTML, CSS and JavaScript can be combined to build something that looks great.
 
 #### CSS Games
-- [Flexbox Froggy](https://flexboxfroggy.com/) - learn about CSS Flexbox
-- [Grid Garden](https://codepip.com/games/grid-garden/) - learn about CSS Grid
-- [CSS Diner](https://flukeout.github.io/) - learn about CSS Selectors
+- [Flexbox Froggy](https://flexboxfroggy.com/) - learn about CSS Flexbox.
+- [Grid Garden](https://codepip.com/games/grid-garden/) - learn about CSS Grid.
+- [CSS Diner](https://flukeout.github.io/) - learn about CSS Selectors.
 
-#### Other
-- [Codewars](https://www.codewars.com/) - you can do Codewars challenges in most programming languages from beginner to advanced levels, I have used it for testing my knowledge in JavaScript, Python, Ruby and SQL
-
+#### JavaScript, Python, Ruby, etc.
+- [Codebar Tutorials](http://tutorials.codebar.io/) - great introductions to various languages, you can also join the community Slack channel and find others to learn with.
+- [Codewars](https://www.codewars.com/) - you can do Codewars challenges in most programming languages from beginner to advanced levels. I have used it for testing my knowledge in JavaScript, Python, Ruby and SQL.
+- [Codecademy](https://www.codecademy.com/) - I found JavaScript hard to learn on this platform (maybe I just found JavaScript hard to learn full-stop...), but it gave me a good introduction to Ruby and Python which I needed for job interviews.
 
 ### Paid Online Resources
 
 #### Courses
-- [Udemy](https://www.udemy.com/) - great for giving you projects to build and they often have flash sales (I use these a lot at work to learn new technologies)
+- [Udemy](https://www.udemy.com/) - great for giving you a course structured around building a project. They can be expensive, but have 30-day money-back guarantees, and also often have flash sales. I use these a lot at work to learn new technologies (I get a training budget with my job). There are also some free courses on the site.
+
+### Meet-ups
+- [Codebar](https://codebar.io/) - a meetup for members of under-represented groups in tech can attend as students. Students are assigned a volunteer coach for their chosen programming language. When they are IRL they are hosted by a company and there is free food.
