@@ -22,8 +22,7 @@ I started with web development, mostly because I already knew a little bit of HT
 but really you can start with any programming language.
 
 I thought I would start by teaching myself, so after making "learning to code" my 2019 New Year's Resolution, I made a Codecademy account and then did...
-absolutely no coding. I realised I needed a bit more structure so I enrolled on an eight week Code First Girls course after work. Through this I built a 
-website with HTML, CSS and JavaScript from scratch, and realised how much I enjoyed coding.
+absolutely no coding. I realised I needed to be held accountable to learning so I enrolled on an eight week Code First Girls course after work. Through this I built a website with HTML, CSS and JavaScript from scratch, and realised how much I enjoyed coding.
 
 After this I set my sights on getting onto the Founders and Coders (FAC) bootcamp because they offer an amazing curriculum with mentorship and employment support.
 There are [pre-requisites](https://www.foundersandcoders.com/apply/#application-requirements) to getting onto the bootcamp, so this gave me more structure for my learning. 
