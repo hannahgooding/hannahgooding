@@ -53,29 +53,33 @@ You also question and prove your knowledge when you have to explain your code to
 
 ## 📚 Resources for beginners
 
-There are absolutely tonnes of resources out there, and there can never be an exhaustive list. These are the ones that I personally used and found helpful.
+There are absolutely tonnes of resources out there, and there can never be an exhaustive list. These are the ones that I personally used and found helpful enough to endorse.
 
-### Free Online Resources
+### 🌱 Free Online Resources
 
-#### Web Development
+#### 🌐 Web Development (HTML, CSS, JavaScript)
 - The [Founders and Coders Curriculum](https://learn.foundersandcoders.com/) is open-source so you can study it even if you don't attend the bootcamp as a cohort member.
 - [freeCodeCamp](https://www.freecodecamp.org/) - great for HTML and CSS basics, note: I found JavaScript difficult to learn on this platform.
 - [General Assembly Dash](https://dash.generalassemb.ly/) - great for following along and quickly seeing how HTML, CSS and JavaScript can be combined to build something that looks great.
 
-#### CSS Games
+##### 🎨 CSS Games
 - [Flexbox Froggy](https://flexboxfroggy.com/) - learn about CSS Flexbox.
 - [Grid Garden](https://codepip.com/games/grid-garden/) - learn about CSS Grid.
 - [CSS Diner](https://flukeout.github.io/) - learn about CSS Selectors.
 
-#### JavaScript, Python, Ruby, etc.
+#### 🌈 Any
 - [Codebar Tutorials](http://tutorials.codebar.io/) - great introductions to various languages, you can also join the community Slack channel and find others to learn with.
 - [Codewars](https://www.codewars.com/) - you can do Codewars challenges in most programming languages from beginner to advanced levels. I have used it for testing my knowledge in JavaScript, Python, Ruby and SQL.
 - [Codecademy](https://www.codecademy.com/) - I found JavaScript hard to learn on this platform (maybe I just found JavaScript hard to learn full-stop...), but it gave me a good introduction to Ruby and Python which I needed for job interviews.
 
-### Paid Online Resources
+### 💰 Paid Online Resources
 
-#### Courses
-- [Udemy](https://www.udemy.com/) - great for giving you a course structured around building a project. They can be expensive, but have 30-day money-back guarantees, and also often have flash sales. I use these a lot at work to learn new technologies (I get a training budget with my job). There are also some free courses on the site.
+There's so much free stuff out there for beginner level, I don't pay unless it's something I feel I can't learn elsewhere. 
 
-### Meet-ups
+[Udemy](https://www.udemy.com/) courses are great for giving you a course structured around building a project. They can be expensive, but have 30-day money-back guarantees, and also often have flash sales. There are also some free courses on the site.
+
+I use these a lot at work to learn new technologies (I get a training budget with my job). Here are the ones I have found useful:
+- [SQL & PostgreSQL for Beginners: Become an SQL Expert](https://www.udemy.com/course/sql-and-postgresql-for-beginners/)
+
+### 🍕 Meet-ups
 - [Codebar](https://codebar.io/) - a meetup for members of under-represented groups in tech can attend as students. Students are assigned a volunteer coach for their chosen programming language. When they are IRL they are hosted by a company and there is free food.
