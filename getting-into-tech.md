@@ -26,7 +26,7 @@ absolutely no coding. I realised I needed to be held accountable to learning so 
 
 After this I set my sights on getting onto the Founders and Coders (FAC) bootcamp because they offer an amazing curriculum with mentorship and employment support.
 There are [pre-requisites](https://www.foundersandcoders.com/apply/#application-requirements) to getting onto the bootcamp, so this gave me more structure for my learning. 
-Oh, and because the bootcamp is communnity run it is absolutely free! Other bootcamps can cost upwards of £8k, so I was desperate to get on, 
+Oh, and because the bootcamp is community run it is absolutely free! Other bootcamps can cost upwards of £8k, so I was desperate to get on, 
 which gave me even more motivation to learn.
 
 Whilst making my way through the course pre-reqs, I attended [codebar](https://codebar.io/) meetups every week where I would be able to iron out any questions with a coach FOR FREE with FREE PIZZA!
