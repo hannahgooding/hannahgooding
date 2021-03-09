@@ -7,8 +7,9 @@
 
 ```python
 me = {
-    pronouns: 'she/her',
-    job: 'associate software engineer',
+    pronouns: 'She/Her',
+    location: 'London, UK',
+    job: 'Associate Software Engineer',
     company: 'Lyst',
 }
 ```
@@ -24,3 +25,11 @@ me = {
 ## Writing ✍️
 - [Dev.to](https://dev.to/hannahgooding)
 - [LogRocket Blog](https://blog.logrocket.com/author/hannahgooding/)
+
+## My Journey ✈️
+- **Oct 2020:** Data Engineer @ [Lyst](https://www.lyst.co.uk/)
+- **Jul 2020:** Front-end Developer @ [Aplisay](https://aplisay.com/)
+- **Mar 2020:** Full Stack Development Bootcamp @ [Founders and Coders](https://www.foundersandcoders.com/)
+- **Mar 2019:** Introduction to Web Development @ [Code First Girls](https://codefirstgirls.org.uk/)
+
+As a self-taught developer who got into coding as a career switch, I am often asked about how to get into tech. I am compiling some resources here.
