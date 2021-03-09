@@ -32,4 +32,5 @@ me = {
 - **Mar 2020:** Full Stack Development Bootcamp @ [Founders and Coders](https://www.foundersandcoders.com/)
 - **Mar 2019:** Introduction to Web Development @ [Code First Girls](https://codefirstgirls.org.uk/)
 
-As a self-taught developer who got into coding as a career switch, I am often asked about how to get into tech. I am compiling some resources here.
+## Getting Into Tech 🤖
+As a self-taught developer who got into coding after switching careers, I am often asked for tips on how to get into tech. I have compiled some tips and resources [here](https://github.com/hannahgooding/hannahgooding/blob/main/getting-into-tech.md).
