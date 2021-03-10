@@ -11,6 +11,7 @@ me = {
     location: 'London, UK',
     job: 'Associate Software Engineer',
     company: 'Lyst',
+    tech_passions: ['accessibility', 'diversity in tech', 'teaching others to code'],
 }
 ```
 
@@ -34,4 +35,4 @@ me = {
 - **Mar 2019:** Introduction to Web Development @ [Code First Girls](https://codefirstgirls.org.uk/)
 
 ## Getting Into Tech 🤖
-As a self-taught developer who got into coding after switching careers, I am often asked for tips on how to get into tech. I have compiled some tips and resources [here](https://github.com/hannahgooding/hannahgooding/blob/main/getting-into-tech.md).
+As I started my career switch into software engineering by teaching myself to code, I am often asked for tips by people who want to explore something similar. I have compiled some tips and resources on getting into tech [here](https://github.com/hannahgooding/hannahgooding/blob/main/getting-into-tech.md).
