@@ -64,7 +64,8 @@ There are absolutely tonnes of resources out there, and there can never be an ex
 - [General Assembly Dash](https://dash.generalassemb.ly/) - great for following along and quickly seeing how HTML, CSS and JavaScript can be combined to build something that looks great.
 
 #### JavaScript
-- [YouTube](https://www.youtube.com/) - searching for a particular concept on YouTube or following a video tutorial was the easiest way I found to practice JS code. - Playing around in your browser console is great for finding out how the language works, you get a deeper understanding of things to supplement following tutorials on platforms like freeCodeCamp and Codecademy.
+- [YouTube](https://www.youtube.com/) - searching for a particular concept on YouTube or following a video tutorial was the easiest way I found to practice JS code.
+- Playing around in your browser console is great for finding out how the language works, you get a deeper understanding of things to supplement following tutorials on platforms like freeCodeCamp and Codecademy.
 
 #### CSS Games
 - [Flexbox Froggy](https://flexboxfroggy.com/) - learn about CSS Flexbox.
