@@ -58,21 +58,20 @@ There are absolutely tonnes of resources out there, and there can never be an ex
 
 ### 🌱 Free Online Resources
 
-##### Web Development (HTML, CSS, JavaScript)
+#### Web Development (HTML, CSS, JavaScript)
 - The [Founders and Coders Curriculum](https://learn.foundersandcoders.com/) is open-source so you can study it even if you don't attend the bootcamp as a cohort member.
 - [freeCodeCamp](https://www.freecodecamp.org/) - great for HTML and CSS basics, note: I found JavaScript difficult to learn on this platform.
 - [General Assembly Dash](https://dash.generalassemb.ly/) - great for following along and quickly seeing how HTML, CSS and JavaScript can be combined to build something that looks great.
 
-##### JavaScript
-- [Codewars](https://www.codewars.com/)
+#### JavaScript
 - [YouTube](https://www.youtube.com/) - searching for a particular concept on YouTube or following a video tutorial was the easiest way I found to practicing JS code.
 
-###### CSS Games
+#### CSS Games
 - [Flexbox Froggy](https://flexboxfroggy.com/) - learn about CSS Flexbox.
 - [Grid Garden](https://codepip.com/games/grid-garden/) - learn about CSS Grid.
 - [CSS Diner](https://flukeout.github.io/) - learn about CSS Selectors.
 
-##### Any
+#### Any
 - [Codebar Tutorials](http://tutorials.codebar.io/) - great introductions to various languages, you can also join the community Slack channel and find others to learn with.
 - [Codewars](https://www.codewars.com/) - you can do Codewars challenges in most programming languages from beginner to advanced levels. I have used it for testing my knowledge in JavaScript, Python, Ruby and SQL.
 - [Codecademy](https://www.codecademy.com/) - I found some JavaScript concepts hard to learn on this platform (maybe I just found JavaScript hard to learn full-stop...), but it gave me a good introduction to Ruby and Python which I needed for job interviews.
