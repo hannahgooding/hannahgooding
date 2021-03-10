@@ -21,17 +21,17 @@ I chose tech because:
 I started with web development, mostly because I already knew a little bit of HTML from ICT at school (and tweaking my Myspace profile of course...),
 but really you can start with any programming language.
 
-I thought I would start by teaching myself, so after making "learning to code" my 2019 New Year's Resolution, I made a _Codecademy_ account and then did...
-absolutely no coding. I realised I needed to be held accountable to learning so I enrolled on an eight week **Code First Girls** course after work. Through this I built a website with HTML, CSS and JavaScript from scratch, and realised how much I enjoyed coding.
+I thought I would start by teaching myself, so after making "learning to code" my 2019 New Year's Resolution, I made a Codecademy account and then did...
+absolutely no coding. I realised I needed to be held accountable to learning so I enrolled on an eight week Code First Girls course after work. Through this I built a website with HTML, CSS and JavaScript from scratch, and realised how much I enjoyed coding.
 
-After this I set my sights on getting onto the _Founders and Coders_ (FAC) bootcamp because they offer an amazing curriculum with mentorship and employment support.
+After this I set my sights on getting onto the Founders and Coders (FAC) bootcamp because they offer an amazing curriculum with mentorship and employment support.
 There are [pre-requisites](https://www.foundersandcoders.com/apply/#application-requirements) to getting onto the bootcamp, so this gave me more structure for my learning. 
 Oh, and because the bootcamp is community run it is absolutely free! Other bootcamps can cost upwards of £8k, so I was desperate to get on, 
 which gave me even more motivation to learn.
 
-Whilst making my way through the course pre-reqs, I attended _codebar_ meetups every week where I would be able to iron out any questions with a coach FOR FREE with FREE PIZZA!
+Whilst making my way through the course pre-reqs, I attended codebar meetups every week where I would be able to iron out any questions with a coach FOR FREE with FREE PIZZA!
 
-I eventually saved up and quit my job to do _FAC_. I would throughly recommend the course/bootcamp route into programming, 
+I eventually saved up and quit my job to do FAC. I would throughly recommend the course/bootcamp route into programming, 
 I met so many amazing people and I am still active in the alumni community. 
 But of course there are limited number of spaces, costs and other limitations such as time, location, etc. 
 
