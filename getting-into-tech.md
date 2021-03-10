@@ -85,6 +85,16 @@ There's so much free stuff out there for beginner level, I don't pay unless it's
 
 I still use these a lot at work to learn new technologies (I get a training budget with my job).
 
-### 🍕 Meet-ups
+## 🍕 Meet-ups
 - [Codebar](https://codebar.io/) - a meetup for members of under-represented groups in tech can attend as students. Students are assigned a volunteer coach for their chosen programming language. When they are IRL they are hosted by a company and there is free food.
 - Founders and Coders run meet ups for those interested in learning about the course and want to pair program together.
+
+## 🗂 Project Ideas
+Projects are the best way to solidify your knowledge, build something cool, and have something to show on your porfolio. Sometimes deciding what to build is the hardest step, so here are some resources:
+- [Frontend Mentor](https://www.frontendmentor.io/) - provides assets for set HTML, CSS and JavaScript challenges (some are free)
+- [Piccalil.li Front End Challenges](https://piccalil.li/category/front-end-challenges-club)
+- [Code with Ania Kubow](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) - Ania has an amazing series of tutorials to build games
+- [freeCodeCamp Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
+
+## 💼 Interview Prep
+- [SkyScanner Full Stack Recruiment Test](https://github.com/skyscanner/full-stack-recruitment-test)
