@@ -16,6 +16,7 @@ me = {
 
 ## Tech Stack 🥞
 ![Python](https://img.shields.io/badge/-Python-1572B6?style=flat&logo=python&logoColor=white&link=/)
+![Django](https://img.shields.io/badge/-Django-1572B6?style=flat&logo=django&logoColor=white&link=/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1572B6?style=flat&logo=javascript&logoColor=white&link=/)
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat&logo=react&logoColor=white&link=/)
 ![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=flat&logo=html5&logoColor=white&link=/)
