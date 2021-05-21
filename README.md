@@ -28,11 +28,15 @@ me = {
 - [Dev.to](https://dev.to/hannahgooding)
 - [LogRocket Blog](https://blog.logrocket.com/author/hannahgooding/)
 
+## Speaking 🎤
+- **April 2021:** Boosting your productivity - Founders and Coders
+- **July 2020:** Why the f**k didn't I know this sooner - Founders and Coders
+
 ## My Journey ✈️
-- **Oct 2020:** Data Engineer @ [Lyst](https://www.lyst.co.uk/)
-- **Jul 2020:** Front-end Developer @ [Aplisay](https://aplisay.com/)
-- **Mar 2020:** Full Stack Development Bootcamp @ [Founders and Coders](https://www.foundersandcoders.com/)
-- **Mar 2019:** Introduction to Web Development @ [Code First Girls](https://codefirstgirls.org.uk/)
+- **October 2020:** Software Engineer @ [Lyst](https://www.lyst.co.uk/)
+- **July 2020:** Front-end Developer @ [Aplisay](https://aplisay.com/)
+- **March 2020:** Full Stack Development Bootcamp @ [Founders and Coders](https://www.foundersandcoders.com/)
+- **March 2019:** Introduction to Web Development @ [Code First Girls](https://codefirstgirls.org.uk/)
 
 ## Getting Into Tech 🤖
 As I started my career switch into software engineering by teaching myself to code, I am often asked for tips by people who want to explore something similar. I have compiled some tips and resources on getting into tech [here](https://github.com/hannahgooding/hannahgooding/blob/main/getting-into-tech.md).
