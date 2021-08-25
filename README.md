@@ -9,9 +9,8 @@
 me = {
     pronouns: 'She/Her',
     location: 'London, UK',
-    job: 'Associate Software Engineer',
-    company: 'Lyst',
-    tech_passions: ['accessibility', 'diversity in tech', 'teaching others to code'],
+    job: 'Associate Software Engineer @ Lyst',
+    volunteer_work: ['Code First Girls Community Ambassador', 'Codebar Coach'],
 }
 ```
 
@@ -29,6 +28,7 @@ me = {
 - [LogRocket Blog](https://blog.logrocket.com/author/hannahgooding/)
 
 ## Speaking 🎤
+- **September 2021:** How to avoid gatekeeping in tech - FemTechConf 2021
 - **April 2021:** Boosting your productivity - Founders and Coders
 - **July 2020:** Why the f**k didn't I know this sooner - Founders and Coders
 
