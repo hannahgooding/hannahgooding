@@ -9,7 +9,7 @@
 me = {
     pronouns: 'She/Her',
     location: 'London, UK',
-    job: 'Associate Software Engineer @ Lyst',
+    job: 'Software Engineer @ Lyst',
     volunteer_work: ['Code First Girls Community Ambassador', 'Codebar Coach'],
 }
 ```
@@ -29,8 +29,11 @@ me = {
 
 ## Speaking 🎤
 - **September 2021:** How to avoid gatekeeping in tech - FemTechConf 2021
-- **April 2021:** Boosting your productivity - Founders and Coders
+- **April 2021 and October 2021:** Boosting your productivity - Founders and Coders
 - **July 2020:** Why the f**k didn't I know this sooner - Founders and Coders
+
+## Awards 🏆
+- #TechWomen100 Award Winner 2021
 
 ## My Journey ✈️
 - **October 2020:** Software Engineer @ [Lyst](https://www.lyst.co.uk/)
