@@ -10,7 +10,7 @@ me = {
     pronouns: 'She/Her',
     location: 'London, UK',
     job: 'Software Engineer @ Lyst',
-    volunteer_work: ['Code First Girls Community Ambassador', 'Codebar Coach'],
+    volunteer_work: ['Code First Girls Community Ambassador', 'Code First Girls Instructor', 'codebar Coach'],
 }
 ```
 
@@ -28,12 +28,13 @@ me = {
 - [LogRocket Blog](https://blog.logrocket.com/author/hannahgooding/)
 
 ## Speaking 🎤
+- **March 2022:** How To Git Rebase and Why You Should: A Beginner's Guide - codebar Festival 2022
 - **September 2021:** How to avoid gatekeeping in tech - FemTechConf 2021
-- **April 2021 and October 2021:** Boosting your productivity - Founders and Coders
+- **April and October 2021, January 2022:** Boosting your productivity - Founders and Coders
 - **July 2020:** Why the f**k didn't I know this sooner - Founders and Coders
 
 ## Awards 🏆
-- #TechWomen100 Award Winner 2021
+- TechWomen100 Award Winner 2021
 
 ## My Journey ✈️
 - **October 2020:** Software Engineer @ [Lyst](https://www.lyst.co.uk/)
