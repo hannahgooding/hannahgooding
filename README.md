@@ -2,7 +2,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hannahgooding.dev-green)](https://www.hannahgooding.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hannahwsgooding-yellow)](https://www.linkedin.com/in/hannahwsgooding/)
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhannahwsgooding)
 ![Codewars](https://www.codewars.com/users/hannahgooding/badges/micro)
 
 ```python
