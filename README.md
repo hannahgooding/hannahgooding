@@ -8,8 +8,8 @@
 ```python
 Hannah = {
     pronouns: 'she/her',
-    location: 'remote, UK',
-    current_role: 'Full Stack Engineer @ EDITED',
+    location: 'London, UK',
+    current_role: 'Senior Full Stack Engineer @ Lyst',
 }
 ```
 
